@@ -1,1 +1,2 @@
 require('rosh')
+require('plugin')
